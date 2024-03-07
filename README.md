@@ -1,13 +1,14 @@
 <h1 align="center">Привет, я Shubnechkin-git! 👋</h1>
 
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/51329173?v=4" width="200" height="200" alt="Shubnechkin-git">
+</p>
+
+<p align="center">
   <a href="https://github.com/Shubnechkin-git"><img src="https://img.shields.io/github/followers/Shubnechkin-git.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://wakatime.com/@018d404d-ac1a-4b76-bcf9-a2bd89cec2ba"><img src="https://wakatime.com/badge/user/018d404d-ac1a-4b76-bcf9-a2bd89cec2ba.svg" alt="Total time coded since Jan 25 2024" /></a>
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/51329173?v=4" width="200" height="200" alt="Shubnechkin-git">
-</p>
 
 <p align="center">Страстный разработчик с увлечением разнообразных технологий, включая:</p>
 
