@@ -49,7 +49,6 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" height="30"/></a>
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" height="30"/></a>
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="30"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="reactjs" height="30"/></a>
   <a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Algorithms%20and%20Data%20Structures-008000?style=for-the-badge&logo=wikipedia&logoColor=white" alt="algorithmsdatastructures" height="30"/></a>
 </p>
 </div>
