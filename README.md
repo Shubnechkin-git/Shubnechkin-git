@@ -9,8 +9,7 @@
   <a href="https://wakatime.com/@018d404d-ac1a-4b76-bcf9-a2bd89cec2ba"><img src="https://wakatime.com/badge/user/018d404d-ac1a-4b76-bcf9-a2bd89cec2ba.svg" alt="Total time coded since Jan 25 2024" /></a>
 </p>
 
-
-<p align="center">Страстный разработчик с увлечением разнообразных технологий, включая:</p>
+<p align="center">Я страстный разработчик с увлечением разнообразных технологий, включая:</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
@@ -43,21 +42,3 @@
   <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS">
   <img src="https://img.shields.io/badge/Алгоритмы%20и%20структуры%20данных-00599C?style=for-the-badge" alt="Алгоритмы и структуры данных">
 </p>
-
-<p align="center">Здесь вы найдете некоторые из моих работ, и я надеюсь, они будут полезны и вдохновят вас на что-то новое!</p>
-
-<h2 align="center">Мои проекты 🚀</h2>
-
-<div align="center">
-  <a href="ссылка_на_проект_1">
-    <img src="путь_к_изображению_проекта_1" alt="Проект 1" style="border-radius: 20px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out;" width="200" height="150">
-  </a>
-  <a href="ссылка_на_проект_2">
-    <img src="путь_к_изображению_проекта_2" alt="Проект 2" style="border-radius: 20px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out;" width="200" height="150">
-  </a>
-  <a href="ссылка_на_проект_3">
-    <img src="путь_к_изображению_проекта_3" alt="Проект 3" style="border-radius: 20px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease-in-out;" width="200" height="150">
-  </a>
-</div>
-
-<p align="center">Не стесняйтесь связаться со мной, если у вас есть какие-либо вопросы или предложения!</p>
