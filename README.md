@@ -53,15 +53,13 @@
   <a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Algorithms%20and%20Data%20Structures-008000?style=for-the-badge&logo=wikipedia&logoColor=white" alt="algorithmsdatastructures" height="30"/></a>
 </p>
 </div>
-<h3 align="left">Поддержка: </h3>
-<p align="left">
-  <a href="https://www.buymeacoffee.com/shubnechkin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shubnechkin" /></a>
-  <a href="https://ko-fi.com/shubnechkin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shubnechkin" /></a>
-</p>
-<p></p>
-<br><br>
 <h3 align="left">Статистика: </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubnechkin-git&show_icons=true&locale=en" alt="shubnechkin-git" height="200px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubnechkin-git&show_icons=true&locale=en&layout=compact" alt="shubnechkin-git" height="200px"/>
+</p>
+<h3 align="left">Поддержка: </h3>
+<p align="left">
+  <a href="https://www.buymeacoffee.com/shubnechkin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shubnechkin" /></a>
+  <a href="https://ko-fi.com/shubnechkin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shubnechkin" /></a>
 </p>
