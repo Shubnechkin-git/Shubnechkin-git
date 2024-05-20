@@ -15,9 +15,12 @@
 <a href="https://instagram.com/main_shubnechkin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="main_shubnechkin" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shubnechkin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg " alt="shubnechkin" height="30" width="40" /></a>
   <a href="https://vk.com/shubnechkin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" alt="vk" height="30"/></a>
-  <a href="mailto:sdnuva2004@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="30"/></a>
-
+  <a href="mailto:d.n.shubnikovgmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=mail&logoColor=white" alt="mail" height="30"/></a>
 </p>
+
+<h3 align="left">Другие проекты:</h3>
+<p>Игры: https://game-analytics.ru/yg/developer/shubnechkin-81905</p>
+<p>Сообщество в ВКонтакте: https://vk.com/shubnechkin_dev</p>
 
 <h3 align="left">Языки и инструменты:</h3>
 <div style="background-color:#fff;padding:10px;border-radius:5px;">
