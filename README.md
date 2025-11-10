@@ -1,25 +1,27 @@
 <div align="center">
 
+<!-- Profile Image -->
+<img src="https://avatars.githubusercontent.com/u/51329173?v=4" width="280" height="280" style="border-radius: 50%; border: 5px solid #58A6FF; box-shadow: 0 0 20px #58A6FF;">
+
+<br>
+
 <!-- Animated Header -->
 <img src="https://readme-typing-svg.vercel.app/?lines=Привет,+я+Shubnechkin!;Full+Stack+Developer;Game+Developer;Tech+Enthusiast&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=58A6FF&vCenter=true&size=30">
 
-<!-- Profile Image with Animation -->
-<img src="https://avatars.githubusercontent.com/u/51329173?v=4" width="280" height="280" style="border-radius: 50%; border: 5px solid #58A6FF; box-shadow: 0 0 20px #58A6FF; animation: pulse 2s infinite;">
+<br>
+<br>
 
 <!-- Badges -->
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=shubnechkin-git&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/shubnechkin-git)
+[![Profile Views](https://komarev.com/ghpvc/?username=Shubnechkin-git&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Shubnechkin-git)
 [![WakaTime](https://wakatime.com/badge/user/018d404d-ac1a-4b76-bcf9-a2bd89cec2ba.svg)](https://wakatime.com/@018d404d-ac1a-4b76-bcf9-a2bd89cec2ba)
-[![GitHub followers](https://img.shields.io/github/followers/shubnechkin-git?style=for-the-badge&color=58A6FF&label=Followers)](https://github.com/shubnechkin-git)
+[![GitHub followers](https://img.shields.io/github/followers/Shubnechkin-git?style=for-the-badge&color=58A6FF&label=Followers)](https://github.com/Shubnechkin-git)
 
 </div>
 
 <!-- Trophy -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=shubnechkin-git&theme=onedark&column=8&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- Animated Snake -->
-![Snake animation](https://github.com/shubnechkin-git/shubnechkin-git/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -102,17 +104,17 @@ const shubnechkin = {
 <div align="center">
 
 <!-- GitHub Stats with custom theme -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubnechkin-git&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubnechkin-git&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubnechkin-git&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubnechkin-git&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
 <!-- GitHub Streak -->
-<img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=shubnechkin-git&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=Shubnechkin-git&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubnechkin-git&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubnechkin-git&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" width="100%"/>
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shubnechkin-git&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%"/>
+<!-- WakaTime Stats -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shubnechkin&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%"/>
 
 </div>
 
@@ -125,29 +127,62 @@ const shubnechkin = {
 <div align="center">
 
 #### 🏢 Портал контрагентов
+
 **Full Stack приложение для управления контрагентами и заявками**
 
-- **Frontend**: React + TypeScript + Vite + Redux + Tailwind CSS
-- **Backend**: NestJS + TypeScript + PostgreSQL + Redis + Bull Queue
-- **Features**: Real-time обновления, WebSocket, Email уведомления, OCR обработка
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Frontend Stack**  
+🔹 React + TypeScript  
+🔹 Vite + Redux  
+🔹 Tailwind CSS
+
+</td>
+<td width="50%" valign="top">
+
+**Backend Stack**  
+🔹 NestJS + TypeScript  
+🔹 PostgreSQL + Redis  
+🔹 Bull Queue
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**Features**: Real-time обновления, WebSocket, Email уведомления, OCR обработка
+
+</td>
+</tr>
+</table>
 
 </div>
+
+---
 
 ### 🎮 Игры
 
 <div align="center">
 
-[![Game Analytics](https://img.shields.io/badge/Game_Analytics-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white)](https://game-analytics.ru/yg/developer/shubnechkin-81905)
+<a href="https://game-analytics.ru/yg/developer/shubnechkin-81905">
+  <img src="https://img.shields.io/badge/Game_Analytics-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white" alt="Game Analytics"/>
+</a>
 
 **Профиль разработчика игр** с аналитикой и метриками
 
 </div>
 
+---
+
 ### 👥 Сообщество
 
 <div align="center">
 
-[![VK Community](https://img.shields.io/badge/VK_Community-4680C2?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/shubnechkin_dev)
+<a href="https://vk.com/shubnechkin_dev">
+  <img src="https://img.shields.io/badge/VK_Community-4680C2?style=for-the-badge&logo=vk&logoColor=white" alt="VK Community"/>
+</a>
 
 **Сообщество разработчиков** в ВКонтакте
 
@@ -196,7 +231,7 @@ graph LR
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/shubnechkin)
 [![VK](https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/shubnechkin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.n.shubnikov@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubnechkin-git)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubnechkin-git)
 
 </div>
 
@@ -208,11 +243,34 @@ graph LR
 
 ### 🎯 Мои принципы разработки
 
-- ✨ **Чистый код** - читаемость превыше всего
-- 🚀 **Производительность** - оптимизация на каждом этапе
-- 🔒 **Безопасность** - защита данных в приоритете
-- 📱 **UX/UI** - пользовательский опыт на первом месте
-- 🧪 **Тестирование** - качество через тесты
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+✨ **Чистый код**  
+*Читаемость превыше всего*
+
+🚀 **Производительность**  
+*Оптимизация на каждом этапе*
+
+🔒 **Безопасность**  
+*Защита данных в приоритете*
+
+</td>
+<td width="50%" valign="top" align="center">
+
+📱 **UX/UI**  
+*Пользовательский опыт на первом месте*
+
+🧪 **Тестирование**  
+*Качество через тесты*
+
+💡 **Инновации**  
+*Постоянное изучение новых технологий*
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -222,7 +280,7 @@ graph LR
 
 <div align="center">
 
-![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=shubnechkin-git&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=Shubnechkin-git&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -257,22 +315,7 @@ graph LR
 
 **⭐️ От звездочки на репозитории не убудет, а мне будет приятно!**
 
-![Visitor Count](https://profile-counter.glitch.me/shubnechkin-git/count.svg)
-
 **Спасибо за визит! 🚀**
 
 </div>
 
----
-
-<!-- CSS Animation -->
-<style>
-@keyframes pulse {
-  0%, 100% {
-    box-shadow: 0 0 20px #58A6FF;
-  }
-  50% {
-    box-shadow: 0 0 40px #58A6FF, 0 0 60px #58A6FF;
-  }
-}
-</style>
